@@ -23,8 +23,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ## Program:
 ```Python
 Program to implement to find the length of the longest palindromic subsequence in it
-Developed by: THIRISHA S
-Register Number:  212222230160
+Developed by: A.ARUVI.
+Register Number:  212222230014.
 dp = [[-1 for i in range(1001)]for j in range(1001)]
 def lps(s1, s2, n1, n2):
     if (n1 == 0 or n2 == 0):
