@@ -21,8 +21,8 @@ To find longest common subsequence using Dynamic Programming.
 ```python
 Program to implement the longest common subsequence using Dynamic Programming
 
-Developed by: THIRISHA S
-Register Number: 212222230160 
+Developed by: A.ARUVI.
+Register Number: 212222230014.
 def lcs(u, v):
     """Return c where c[i][j] contains length of LCS of u[i:] and v[j:]."""
     c = [[-1]*(len(v) + 1) for _ in range(len(u) + 1)]
