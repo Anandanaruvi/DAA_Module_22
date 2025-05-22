@@ -20,8 +20,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ## Program:
 ```python
 Program to implement the longest common substring problem
-Developed by: THIRISHA S
-Register Number:  212222230160
+Developed by: A.ARUVI.
+Register Number:  212222230014
 def LCS(X, Y, m, n):
     maxLength = 0
     endingIndex = m
