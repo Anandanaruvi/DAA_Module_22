@@ -23,8 +23,8 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 ## Program:
 ```python
 Program to implement to find the minimum number of operations to convert str1 to str2 using Naive recursive method
-Developed by: THIRISHA S
-Register Number:  212222230160
+Developed by: A.ARUVI.
+Register Number:  212222230014.
 class Solution(object):
     def longestPalindrome(self, s):
     ###########  Add your code here #############
